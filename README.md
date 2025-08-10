@@ -1,4 +1,4 @@
-To reproduce the error for the tooling team, follow these steps:
+To reproduce the error, follow these steps:
 
 1. Clone or download this project to your local machine.
 2. Make sure you have pnpm installed (`corepack enable` if needed).
